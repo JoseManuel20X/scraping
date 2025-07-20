@@ -1,11 +1,4 @@
-Archivo ./docs/ con una guía de inicio
-Pasos:
-Crea una carpeta ./docs/ en la raíz de tu proyecto.
 
-Agrega un archivo guia_inicio.md con las instrucciones de inicio:
-
-markdown
-Copiar
 ## Guía de inicio
 
 ### Instalación de dependencias:
