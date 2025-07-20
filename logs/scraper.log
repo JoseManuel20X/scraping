@@ -1,0 +1,1572 @@
+2025-07-17 21:23:16,321 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 21:23:16,823 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 21:23:17,331 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 21:23:17,889 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 21:23:18,386 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 21:23:19,013 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:23:19,615 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:23:20,267 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:23:20,774 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:23:21,270 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:23:21,860 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 21:23:22,484 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 21:23:23,125 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 21:23:23,999 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 21:23:24,973 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 21:23:25,565 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 21:23:26,089 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 21:23:26,544 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 21:23:27,135 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 21:23:27,675 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 21:23:27,675 - INFO - \u2705 Scraping dinámico completado y datos guardados.
+2025-07-17 21:28:09,801 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 21:28:10,359 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 21:28:10,955 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 21:28:11,524 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 21:28:12,052 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 21:28:12,668 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:28:13,298 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:28:13,946 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:28:14,578 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:28:15,270 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:28:16,448 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 21:28:16,921 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 21:28:17,452 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 21:28:18,008 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 21:28:18,602 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 21:28:19,193 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 21:28:19,671 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 21:28:20,361 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 21:28:20,928 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 21:28:21,485 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 21:28:21,486 - INFO - \u2705 Scraping dinámico completado y datos guardados.
+2025-07-17 21:44:56,396 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 21:44:56,919 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 21:44:57,476 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 21:44:58,062 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 21:44:58,558 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 21:44:59,091 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:44:59,663 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:45:00,173 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:45:00,561 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:45:00,986 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:45:01,508 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 21:45:01,964 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 21:45:02,417 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 21:45:03,008 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 21:45:04,052 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 21:45:04,705 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 21:45:05,178 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 21:45:05,677 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 21:45:06,245 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 21:45:06,723 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 21:45:06,724 - INFO - El Scraping dinámico se a completado
+2025-07-17 21:58:57,516 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-17 21:58:57,519 - INFO - Added job "ejecutar_scrapings" to job store "default"
+2025-07-17 21:58:57,519 - INFO - Scheduler started
+2025-07-17 21:59:27,522 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 21:59:27 CST)" (scheduled at 2025-07-17 21:59:27.515812-06:00)
+2025-07-17 21:59:27,523 - INFO - Iniciando scraping...
+2025-07-17 21:59:28,738 - INFO - Scraping estático completado.
+2025-07-17 21:59:35,010 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 21:59:35,533 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 21:59:36,135 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 21:59:36,712 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 21:59:37,166 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 21:59:37,736 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:59:38,506 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:59:39,190 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:59:39,685 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:59:40,263 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 21:59:40,858 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 21:59:41,308 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 21:59:41,922 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 21:59:42,793 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 21:59:43,828 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 21:59:44,837 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 21:59:45,386 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 21:59:46,171 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 21:59:47,361 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 21:59:48,068 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 21:59:48,068 - INFO - El Scraping dinámico se a completado
+2025-07-17 21:59:52,515 - INFO - Scraping dinámico completado.
+2025-07-17 21:59:52,515 - INFO - Scraping completo.
+
+2025-07-17 21:59:52,516 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 21:59:57 CST)" executed successfully
+2025-07-17 21:59:57,520 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:00:27 CST)" (scheduled at 2025-07-17 21:59:57.515812-06:00)
+2025-07-17 21:59:57,522 - INFO - Iniciando scraping...
+2025-07-17 21:59:58,604 - INFO - Scraping estático completado.
+2025-07-17 22:00:04,913 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:00:05,377 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:00:05,826 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:00:06,368 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:00:07,064 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:00:07,879 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:08,497 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:09,101 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:09,567 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:10,088 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:10,663 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:00:11,131 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:00:11,619 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:00:12,125 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:00:12,830 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:00:13,304 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:00:13,756 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:00:14,220 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:00:14,794 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:00:15,261 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:00:15,261 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:00:22,275 - INFO - Scraping dinámico completado.
+2025-07-17 22:00:22,276 - INFO - Scraping completo.
+
+2025-07-17 22:00:22,279 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:00:27 CST)" executed successfully
+2025-07-17 22:00:27,533 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:00:57 CST)" (scheduled at 2025-07-17 22:00:27.515812-06:00)
+2025-07-17 22:00:27,534 - INFO - Iniciando scraping...
+2025-07-17 22:00:29,632 - INFO - Scraping estático completado.
+2025-07-17 22:00:36,077 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:00:36,525 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:00:36,999 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:00:37,494 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:00:38,087 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:00:38,662 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:39,340 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:39,957 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:40,466 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:40,971 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:00:41,626 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:00:42,101 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:00:42,486 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:00:43,156 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:00:43,940 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:00:44,447 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:00:44,849 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:00:45,391 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:00:45,944 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:00:46,527 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:00:46,528 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:00:52,083 - INFO - Scraping dinámico completado.
+2025-07-17 22:00:52,083 - INFO - Scraping completo.
+
+2025-07-17 22:00:52,084 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:00:57 CST)" executed successfully
+2025-07-17 22:00:57,528 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:01:27 CST)" (scheduled at 2025-07-17 22:00:57.515812-06:00)
+2025-07-17 22:00:57,529 - INFO - Iniciando scraping...
+2025-07-17 22:00:58,588 - INFO - Scraping estático completado.
+2025-07-17 22:01:04,698 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:01:05,208 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:01:05,694 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:01:06,186 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:01:06,687 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:01:07,286 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:07,747 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:08,252 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:08,733 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:09,195 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:09,718 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:01:10,167 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:01:10,565 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:01:11,050 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:01:11,701 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:01:12,209 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:01:13,172 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:01:13,758 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:01:14,245 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:01:14,940 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:01:14,941 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:01:22,085 - INFO - Scraping dinámico completado.
+2025-07-17 22:01:22,085 - INFO - Scraping completo.
+
+2025-07-17 22:01:22,086 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:01:27 CST)" executed successfully
+2025-07-17 22:01:27,530 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:01:57 CST)" (scheduled at 2025-07-17 22:01:27.515812-06:00)
+2025-07-17 22:01:27,531 - INFO - Iniciando scraping...
+2025-07-17 22:01:28,674 - INFO - Scraping estático completado.
+2025-07-17 22:01:35,089 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:01:35,561 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:01:36,111 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:01:36,527 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:01:37,049 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:01:37,561 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:38,185 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:38,983 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:39,505 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:40,072 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:01:40,691 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:01:41,221 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:01:41,839 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:01:42,588 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:01:43,620 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:01:44,335 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:01:45,187 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:01:45,933 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:01:46,654 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:01:47,364 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:01:47,364 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:01:51,390 - INFO - Scraping dinámico completado.
+2025-07-17 22:01:51,390 - INFO - Scraping completo.
+
+2025-07-17 22:01:51,391 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:01:57 CST)" executed successfully
+2025-07-17 22:01:57,530 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:02:27 CST)" (scheduled at 2025-07-17 22:01:57.515812-06:00)
+2025-07-17 22:01:57,532 - INFO - Iniciando scraping...
+2025-07-17 22:01:58,587 - INFO - Scraping estático completado.
+2025-07-17 22:02:05,157 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:02:05,618 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:02:06,109 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:02:06,545 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:02:07,036 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:02:07,525 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:08,062 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:08,772 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:09,355 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:09,896 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:10,658 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:02:11,405 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:02:12,055 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:02:12,903 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:02:13,881 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:02:15,198 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:02:16,288 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:02:17,363 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:02:19,276 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:02:19,922 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:02:19,922 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:02:25,335 - INFO - Scraping dinámico completado.
+2025-07-17 22:02:25,336 - INFO - Scraping completo.
+
+2025-07-17 22:02:25,337 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:02:27 CST)" executed successfully
+2025-07-17 22:02:27,524 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:02:57 CST)" (scheduled at 2025-07-17 22:02:27.515812-06:00)
+2025-07-17 22:02:27,527 - INFO - Iniciando scraping...
+2025-07-17 22:02:28,682 - INFO - Scraping estático completado.
+2025-07-17 22:02:35,414 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:02:35,891 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:02:36,418 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:02:36,903 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:02:37,396 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:02:38,023 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:38,614 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:39,165 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:39,711 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:40,166 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:02:40,706 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:02:41,085 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:02:41,643 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:02:42,238 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:02:43,102 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:02:43,591 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:02:44,202 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:02:44,841 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:02:45,313 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:02:45,805 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:02:45,806 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:02:51,123 - INFO - Scraping dinámico completado.
+2025-07-17 22:02:51,123 - INFO - Scraping completo.
+
+2025-07-17 22:02:51,125 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:02:57 CST)" executed successfully
+2025-07-17 22:02:57,525 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:03:27 CST)" (scheduled at 2025-07-17 22:02:57.515812-06:00)
+2025-07-17 22:02:57,526 - INFO - Iniciando scraping...
+2025-07-17 22:02:58,643 - INFO - Scraping estático completado.
+2025-07-17 22:03:05,625 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:03:06,017 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:03:06,454 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:03:06,999 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:03:07,404 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:03:07,946 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:08,565 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:09,255 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:09,791 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:10,496 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:11,328 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:03:12,040 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:03:12,639 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:03:13,694 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:03:14,554 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:03:15,478 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:03:16,148 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:03:17,680 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:03:18,601 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:03:19,695 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:03:19,695 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:03:23,297 - INFO - Scraping dinámico completado.
+2025-07-17 22:03:23,298 - INFO - Scraping completo.
+
+2025-07-17 22:03:23,298 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:03:27 CST)" executed successfully
+2025-07-17 22:03:27,532 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:03:57 CST)" (scheduled at 2025-07-17 22:03:27.515812-06:00)
+2025-07-17 22:03:27,533 - INFO - Iniciando scraping...
+2025-07-17 22:03:28,632 - INFO - Scraping estático completado.
+2025-07-17 22:03:35,035 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:03:35,615 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:03:36,391 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:03:36,902 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:03:37,437 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:03:37,995 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:38,592 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:39,193 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:39,689 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:40,266 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:03:40,871 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:03:41,485 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:03:42,160 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:03:42,796 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:03:43,918 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:03:44,563 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:03:45,186 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:03:46,081 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:03:46,955 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:03:47,635 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:03:47,635 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:03:51,715 - INFO - Scraping dinámico completado.
+2025-07-17 22:03:51,715 - INFO - Scraping completo.
+
+2025-07-17 22:03:51,723 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:03:57 CST)" executed successfully
+2025-07-17 22:03:57,528 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:04:27 CST)" (scheduled at 2025-07-17 22:03:57.515812-06:00)
+2025-07-17 22:03:57,529 - INFO - Iniciando scraping...
+2025-07-17 22:03:58,681 - INFO - Scraping estático completado.
+2025-07-17 22:04:05,171 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:04:05,673 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:04:06,299 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:04:06,847 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:04:07,523 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:04:08,058 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:08,716 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:09,281 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:09,856 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:10,587 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:11,233 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:04:12,023 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:04:12,778 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:04:13,540 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:04:14,456 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:04:15,185 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:04:16,137 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:04:17,146 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:04:18,789 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:04:19,832 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:04:19,833 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:04:22,373 - INFO - Scraping dinámico completado.
+2025-07-17 22:04:22,373 - INFO - Scraping completo.
+
+2025-07-17 22:04:22,374 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:04:27 CST)" executed successfully
+2025-07-17 22:04:27,532 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:04:57 CST)" (scheduled at 2025-07-17 22:04:27.515812-06:00)
+2025-07-17 22:04:27,533 - INFO - Iniciando scraping...
+2025-07-17 22:04:28,605 - INFO - Scraping estático completado.
+2025-07-17 22:04:35,660 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:04:36,168 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:04:36,583 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:04:37,179 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:04:37,632 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:04:38,299 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:38,935 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:39,532 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:40,081 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:40,614 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:04:41,313 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:04:42,166 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:04:43,016 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:04:43,814 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:04:44,485 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:04:45,225 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:04:45,851 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:04:46,596 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:04:47,839 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:04:48,602 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:04:48,603 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:04:51,588 - INFO - Scraping dinámico completado.
+2025-07-17 22:04:51,589 - INFO - Scraping completo.
+
+2025-07-17 22:04:51,593 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:04:57 CST)" executed successfully
+2025-07-17 22:04:57,531 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:05:27 CST)" (scheduled at 2025-07-17 22:04:57.515812-06:00)
+2025-07-17 22:04:57,531 - INFO - Iniciando scraping...
+2025-07-17 22:04:58,680 - INFO - Scraping estático completado.
+2025-07-17 22:05:05,350 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:05:05,889 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:05:06,319 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:05:06,737 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:05:07,184 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:05:07,904 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:08,554 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:09,272 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:09,820 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:10,396 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:11,057 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:05:11,587 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:05:12,534 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:05:14,514 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:05:15,472 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:05:16,082 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:05:16,582 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:05:18,476 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:05:19,694 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:05:20,346 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:05:20,347 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:05:22,970 - INFO - Scraping dinámico completado.
+2025-07-17 22:05:22,971 - INFO - Scraping completo.
+
+2025-07-17 22:05:22,973 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:05:27 CST)" executed successfully
+2025-07-17 22:05:27,524 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:05:57 CST)" (scheduled at 2025-07-17 22:05:27.515812-06:00)
+2025-07-17 22:05:27,525 - INFO - Iniciando scraping...
+2025-07-17 22:05:28,714 - INFO - Scraping estático completado.
+2025-07-17 22:05:35,365 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:05:35,903 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:05:36,377 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:05:36,930 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:05:37,383 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:05:37,929 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:38,679 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:39,289 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:39,809 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:40,426 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:05:41,303 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:05:41,829 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:05:42,725 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:05:43,958 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:05:44,657 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:05:45,242 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:05:45,841 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:05:46,707 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:05:47,402 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:05:48,065 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:05:48,065 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:05:52,278 - INFO - Scraping dinámico completado.
+2025-07-17 22:05:52,278 - INFO - Scraping completo.
+
+2025-07-17 22:05:52,278 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:05:57 CST)" executed successfully
+2025-07-17 22:05:57,520 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:06:27 CST)" (scheduled at 2025-07-17 22:05:57.515812-06:00)
+2025-07-17 22:05:57,521 - INFO - Iniciando scraping...
+2025-07-17 22:05:58,966 - INFO - Scraping estático completado.
+2025-07-17 22:06:05,189 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:06:05,630 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:06:06,111 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:06:06,582 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:06:07,034 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:06:07,540 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:08,060 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:08,894 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:09,472 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:09,990 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:10,624 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:06:11,146 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:06:11,973 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:06:12,901 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:06:13,765 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:06:14,627 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:06:15,344 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:06:16,102 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:06:16,970 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:06:18,509 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:06:18,509 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:06:22,647 - INFO - Scraping dinámico completado.
+2025-07-17 22:06:22,647 - INFO - Scraping completo.
+
+2025-07-17 22:06:22,648 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:06:27 CST)" executed successfully
+2025-07-17 22:06:27,532 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:06:57 CST)" (scheduled at 2025-07-17 22:06:27.515812-06:00)
+2025-07-17 22:06:27,532 - INFO - Iniciando scraping...
+2025-07-17 22:06:28,822 - INFO - Scraping estático completado.
+2025-07-17 22:06:35,370 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('A Li...
+                                               ^
+
+2025-07-17 22:06:35,817 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Tipp...
+                                               ^
+
+2025-07-17 22:06:36,276 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Soum...
+                                               ^
+
+2025-07-17 22:06:36,737 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shar...
+                                               ^
+
+2025-07-17 22:06:37,219 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Sapi...
+                                               ^
+
+2025-07-17 22:06:37,774 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:38,442 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:39,169 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:39,750 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:40,288 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('The ...
+                                               ^
+
+2025-07-17 22:06:41,106 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Star...
+                                               ^
+
+2025-07-17 22:06:41,742 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Shak...
+                                               ^
+
+2025-07-17 22:06:42,387 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Set ...
+                                               ^
+
+2025-07-17 22:06:43,841 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Scot...
+                                               ^
+
+2025-07-17 22:06:44,812 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Rip ...
+                                               ^
+
+2025-07-17 22:06:45,420 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Our ...
+                                               ^
+
+2025-07-17 22:06:46,302 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Olio...
+                                               ^
+
+2025-07-17 22:06:46,944 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Mesa...
+                                               ^
+
+2025-07-17 22:06:47,673 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('Libe...
+                                               ^
+
+2025-07-17 22:06:48,222 - ERROR - \u274c Error al guardar en BD (dynamic): no existe la columna «origen» en la relación «productos»
+LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
+                                               ^
+
+2025-07-17 22:06:48,222 - INFO - El Scraping dinámico se a completado
+2025-07-17 22:06:52,473 - INFO - Scraping dinámico completado.
+2025-07-17 22:06:52,473 - INFO - Scraping completo.
+
+2025-07-17 22:06:52,474 - INFO - Job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:06:57 CST)" executed successfully
+2025-07-17 22:06:57,517 - INFO - Running job "ejecutar_scrapings (trigger: interval[0:00:30], next run at: 2025-07-17 22:07:27 CST)" (scheduled at 2025-07-17 22:06:57.515812-06:00)
+2025-07-17 22:06:57,518 - INFO - Iniciando scraping...
+2025-07-17 22:06:58,605 - INFO - Scraping estático completado.
+2025-07-17 22:06:59,444 - ERROR - Error en scraping dinámico: Command '['python', 'scraper/scraper_dynamic.py']' returned non-zero exit status 3221225786.
+2025-07-17 22:06:59,444 - INFO - Scraping completo.
+

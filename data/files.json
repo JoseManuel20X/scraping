@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "file-sample_150kB.pdf",
+        "url": "https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf",
+        "hash": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880"
+    },
+    {
+        "nombre": "file_example_JPG_100kB.jpg",
+        "url": "https://file-examples.com/wp-content/uploads/2017/02/file_example_JPG_100kB.jpg",
+        "hash": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880"
+    }
+]
