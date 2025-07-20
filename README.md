@@ -7,8 +7,10 @@ Crea un archivo ./docs/configuración_programador.md con la configuración detal
 1. Instala las dependencias necesarias:
    ```bash
    pip install apscheduler
-Ejecute el script para iniciar el scraping cada 30 minutos:
 
-bash
-python -m scraper.scraper_dynamic
-El scraping se ejecutará de inmediato y luego cada 30 minutos.
+2. Ejecute el script para iniciar el scraping cada 30 minutos:
+
+```bash
+   pip install apscheduler
+
+3.El scraping se ejecutará de inmediato y luego cada 30 minutos.
