@@ -1570,3 +1570,19 @@ LINE 1: INSERT INTO productos (titulo, precio, origen) VALUES ('It''...
 2025-07-17 22:06:59,444 - ERROR - Error en scraping dinámico: Command '['python', 'scraper/scraper_dynamic.py']' returned non-zero exit status 3221225786.
 2025-07-17 22:06:59,444 - INFO - Scraping completo.
 
+2025-07-23 21:25:09 [STATIC] INFO: Tabla 'productos' creada/verificada.
+2025-07-23 21:25:10 [STATIC] INFO: Se encontraron 20 libros.
+2025-07-23 21:25:10 [STATIC] ERROR: Error al guardar libros en la base de datos: no existe la columna «origen» en la relación «productos»
+LINE 2: ...           INSERT INTO productos (titulo, precio, origen, fe...
+                                                             ^
+
+2025-07-23 21:25:10 [STATIC] ERROR: Error exportando a JSON: no existe la columna «origen»
+LINE 1: SELECT titulo, precio, origen, fecha_registro FROM productos...
+                               ^
+
+2025-07-23 21:27:10,893 - INFO - \u2705 Tabla 'productos' creada/verificada.
+2025-07-23 21:27:11,454 - INFO - Se encontraron 20 libros.
+2025-07-23 21:27:11,593 - INFO - 20 libros guardados en la base de datos.
+2025-07-23 21:27:11,648 - INFO - Archivo 'results.json' exportado correctamente.
+2025-07-23 21:32:14,649 - INFO - \u2705 Tabla 'productos' creada/verificada.
+2025-07-23 21:33:10,417 - INFO - \u2705 El Scraping dinámico se ha completado.
