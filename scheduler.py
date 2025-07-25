@@ -18,7 +18,7 @@ logging.basicConfig(
 
 scheduler = BlockingScheduler()
 
-@scheduler.scheduled_job('interval', seconds=30)
+@scheduler.scheduled_job('interval', minutes=30)
 def ejecutar_scrapings():
     ahora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     print(f"Ejecutando scraping a las {ahora}")
