@@ -59,6 +59,6 @@ Git
 
 1. Clonar el repositorio
 
-``bash
-git clone https://github.com/tu-usuario/books-web-scraper.git
-cd books-web-scraper
+```bash
+https://github.com/JoseManuel20X/scraping.git
+```
