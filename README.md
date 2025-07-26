@@ -71,20 +71,36 @@
     DB_PASSWORD=contraseña
     ```
 
-4. Crear y configurar la base de datos en PostgreSQL.
+4. **Configurar la base de datos**:
 
-5. Ejecutar el script de scraping:
+    Asegúrate de tener una base de datos PostgreSQL configurada y creada. El proyecto intentará crear la base de datos y las tablas si no existen.
 
-    ```bash
-    python scraper.py
-    ```
-
-6. Iniciar la API Flask:
+5. **Ejecutar el scraper dinámico**:
 
     ```bash
-    flask run
+    python scraper_dynamic.py
     ```
 
-### 📑 **Licencia** 📑
+6. **Ejecutar el scraper estático**:
 
-Este proyecto está bajo la **Licencia MIT**. Ver el archivo [LICENSE](LICENSE) para más detalles.
+    ```bash
+    python scraper_static.py
+    ```
+
+7. **Ejecutar el scheduler**:
+
+    El scheduler ejecutará ambos scrapers cada 30 minutos. Para iniciar el scheduler:
+
+    ```bash
+    python scheduler.py
+    ```
+
+8. **Ejecutar el servidor de API**:
+
+    Para iniciar la API REST:
+
+    ```bash
+    python json_api_server.py
+    ```
+
+    La API estará disponible en `http://localhost:5000`.
